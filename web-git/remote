@@ -1,5 +1,7 @@
 {
-  "_comment": "time: JST(UTC+9)",
-  "update_data": "2022/10/31 14:36",
-  "version": "0.0.1"
+  "_comment": "time: JST(UTC+9), バージョン確認等に使用",
+  "update_data": "2022/10/31 21:52",
+  "version": "0.0.1",
+  "commit_sha": "edd1ad8247b4f0e1b40c7a87eb3a9335e818df21",
+  "git_branch": "origin/master"
 }
